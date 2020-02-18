@@ -1,4 +1,4 @@
-name: Deploy Nonsense Generator Function
+name: Deploy Twit Generator Function
 
 on:
   push:
